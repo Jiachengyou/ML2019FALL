@@ -1,0 +1,4 @@
+need：
+update keras --> 2.3.1
+update tensorflow --> 2.0.0
+numpy, pandas, spacy, gensim, emoji 与之前相同 
